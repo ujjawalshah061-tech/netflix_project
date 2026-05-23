@@ -7,7 +7,7 @@ The goal is to predict whether a title is a **Movie** or a **TV Show** using met
 ---
 
 ##  Tech Stack
-- **Language:** Python 🐍  
+- **Language:** Python   
 - **Data Processing:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn (RandomForestClassifier)
