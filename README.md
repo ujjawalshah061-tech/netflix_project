@@ -1,12 +1,12 @@
-# 🎬 Netflix Metadata Classification Pipeline using Random Forest
+#  Netflix Metadata Classification Pipeline using Random Forest
 
-## 📌 Project Overview
+##  Project Overview
 This project is an end-to-end machine learning pipeline built on the Netflix Movies and TV Shows dataset.  
 The goal is to predict whether a title is a **Movie** or a **TV Show** using metadata features such as rating, country, and release date information.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python 🐍  
 - **Data Processing:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
@@ -14,7 +14,7 @@ The goal is to predict whether a title is a **Movie** or a **TV Show** using met
 
 ---
 
-## 🔬 Workflow
+##  Workflow
 
 ### 1. Data Preprocessing
 - Handled missing and malformed date values using safe parsing (`errors='coerce'`)
@@ -41,7 +41,7 @@ The goal is to predict whether a title is a **Movie** or a **TV Show** using met
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 The model is evaluated using:
 
 - **Accuracy Score** – Overall correctness of predictions  
@@ -51,7 +51,7 @@ The model is evaluated using:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
